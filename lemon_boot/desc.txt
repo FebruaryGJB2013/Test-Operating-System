@@ -1,0 +1,4 @@
+cat << 'EOF' > lemon_boot/desc.txt
+1024 600 5
+p 0 0 part0
+EOF
